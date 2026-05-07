@@ -7,10 +7,20 @@ Web application that provides farmers with real time market prices and helps the
 A web app that helps farmers check live crop prices, compare nearby markets, and decide where and when to sell their crops.
 
 Features
+
+
 📈 Live price updates
+
+
 🏪 Market comparison
+
+
 📊 Price trend charts
+
+
 📍 Nearby market locator
+
+
 🌐 English, Kannada, Hindi support
 
 Tech Stack
