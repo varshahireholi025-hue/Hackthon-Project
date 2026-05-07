@@ -29,11 +29,24 @@ Run Locally
 Bash
 Open http://127.0.0.1:5000
 
+
+
+
 👥 Developed By
 #
-Name
+
+
 1.Sneha Hallikeri
+
+
 2.Shridevi Abbigeri
+
+
 3.Varsha Hireholi
+
+
 4.Srushti Ivani
+
+
+
 Problem Statement #7 — Farmer Market Information & Decision Support App
