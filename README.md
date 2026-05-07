@@ -1,7 +1,9 @@
 # Hackthon-Project
 Web application that provides farmers with real time market prices and helps them decide where and when to sell crops.
 
-Smart AgriMarket - Belagavi
+#Smart AgriMarket - Belagavi
+
+
 A web app that helps farmers check live crop prices, compare nearby markets, and decide where and when to sell their crops.
 
 Features
